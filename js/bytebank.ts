@@ -42,5 +42,5 @@ elementoFormulario.addEventListener("submit", function(event) {
 
     console.log(novaTrasacao);
     elementoFormulario.reset();
-})
+});
 
