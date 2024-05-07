@@ -1,4 +1,5 @@
 let saldo = 3000;
+
 const elementoSaldo = document.querySelector(".saldo-valor .valor") as HTMLElement;
 const elementoFormulario = document.querySelector(".block-nova-transacao form") as HTMLElement;
 
