@@ -1,7 +1,7 @@
 let saldo = 3000;
 
 const elementoSaldo = document.querySelector(".saldo-valor .valor") as HTMLElement;
-const elementoFormulario = document.querySelector(".block-nova-transacao form") as HTMLElement;
+const elementoFormulario = document.querySelector(".block-nova-transacao form") as HTMLFormElement;
 
 if (elementoSaldo != null) {
     elementoSaldo.textContent = saldo.toString();   
