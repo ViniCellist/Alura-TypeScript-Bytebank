@@ -1,6 +1,7 @@
-import "./components/nova-transacao-component";
-import "./components/saldo-component";
-import "./types/FormatoData";
-import "./types/TipoTransacao";
-import "./types/Transacao";
-import "./utils/formatters";
+import "./components/nova-transacao-component.js";
+import "./components/saldo-component.js";
+import "./types/Contas.js";
+import "./types/FormatoData.js";
+import "./types/TipoTransacao.js";
+import "./types/Transacao.js";
+import "./utils/formatters.js";
